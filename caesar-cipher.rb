@@ -22,7 +22,7 @@ def caesar_cipher(string, shift)
     end
   }
   puts new_string
-  return new_string
+  # return new_string
 end
 
 # caesar_cipher("What a string!", 5)
